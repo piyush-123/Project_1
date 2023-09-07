@@ -2,7 +2,7 @@ import pymongo
 import pandas as pd
 import json
 
-client = pymongo.MongoClient("mongodb+srv://piyush1304:System911@cluster0.gocvn.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://XXXXXXXX:XXXXXXXX@cluster0.gocvn.mongodb.net/?retryWrites=true&w=majority")
 
 DATABASE_NAME = 'app'
 COLLECTION_NAME = 'sensor'
